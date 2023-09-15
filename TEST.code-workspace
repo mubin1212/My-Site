@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "TEST",
+			"path": "../../../Users/acer/Desktop/TEST"
+		},
+		{
+			"name": "turbo-broccoli-main",
+			"path": ".."
+		},
+		{
+			"name": "Dicee Challenge - Starting Files",
+			"path": "../../../Users/acer/Downloads/Dicee Challenge - Starting Files/Dicee Challenge - Starting Files"
+		},
+		{
+			"name": "My portfolio",
+			"path": "../../My portfolio"
+		},
+		{
+			"name": "railway website",
+			"path": "../../railway website"
+		},
+		{
+			"name": "2.3 NPM",
+			"path": "../../../Users/acer/Downloads/2.3 NPM"
+		},
+		{
+			"name": "backend",
+			"path": "../../backend"
+		},
+		{
+			"path": "../../../Users/acer/Downloads/Drum Kit Starting Files/Drum Kit Starting Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "My portfolio"
+	}
+}
